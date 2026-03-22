@@ -1,0 +1,5 @@
+What is JVM?,Java Virtual Machine,Java Very Much,Just Virtual Machine,Java Verified Mode,A
+Which keyword is used for inheritance?,implements,extends,import,package,B
+Which package contains Scanner?,java.util,java.io,java.lang,java.net,A
+Java is?,Programming Language,Operating System,Database,Compiler,A
+Which company created Java?,Microsoft,Apple,Sun Microsystems,Google,C
